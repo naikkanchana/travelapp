@@ -4,6 +4,7 @@ import { View, SafeAreaView} from 'react-native';
 import Title from './../../components/Title';
 
 const Home = () => {
+    console.log('Home Screen')
     return (
         <SafeAreaView>
              <View>
